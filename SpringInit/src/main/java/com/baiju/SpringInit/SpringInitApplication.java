@@ -1,4 +1,4 @@
-package com.baiju.spring.init.SpringInit;
+package com.baiju.SpringInit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
