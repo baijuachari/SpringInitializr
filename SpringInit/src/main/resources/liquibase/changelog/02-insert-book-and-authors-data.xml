@@ -6,13 +6,13 @@
 
 		<insert tableName="books">
 			<column name="id" valueNumeric="1" />
-			<column name="name" value="book_01_a_01" />
+			<column name="book_name" value="book_01_a_01" />
 			<column name="author" valueNumeric="1" />
 		</insert>
 		
-		<insert tableName="author">
+		<insert tableName="authors">
 			<column name="id" valueNumeric="1" />
-			<column name="name" value="author_01" />
+			<column name="author_name" value="author_01" />
 		</insert>
 
 

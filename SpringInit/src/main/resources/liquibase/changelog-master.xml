@@ -7,6 +7,8 @@
 
 	<include file="changelog/01-create-books-and-author-schema.xml"
 		relativeToChangelogFile="true" />
+	<include file="changelog/02-insert-book-and-authors-data.xml"
+		relativeToChangelogFile="true" />
 
 
 </databaseChangeLog>
